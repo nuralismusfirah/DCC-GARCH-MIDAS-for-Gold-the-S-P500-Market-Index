@@ -1,0 +1,1 @@
+# DCC-GARCH-MIDAS-for-Gold-the-S-P500-Market-Index
